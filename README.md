@@ -1,6 +1,6 @@
 # React + Vite
 Here's the link of my # React + Vite app
-Link:- https://brainwaveaichat.netlify.app
+Link:- https://brainwavechatai.netlify.app
 
 
 
